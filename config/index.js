@@ -95,9 +95,9 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
+      name: "小秋",
+      id: "omLZI68cdZuDmiKqoT8b1gRLdS1Q",
+      useTemplateId: "aB36-uyXtp2l_R_WrspoC8X7br1zNN4KgaioDpm9JKA",
       province: "",
       city: "",
       horoscopeDate: '',
