@@ -100,11 +100,11 @@ export const config = {
       useTemplateId: "aB36-uyXtp2l_R_WrspoC8X7br1zNN4KgaioDpm9JKA",
       province: "贵州",
       city: "贵阳",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      horoscopeDate: '09-09',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: [ {"type": "*生日", "name": "小秋", "year": "2022", "date": "09-09"},],
+      customizedDateList: [{"keyword": "love_day", date: "2022-09-08"},]
     },
     {
       name: "老婆2",
@@ -115,7 +115,7 @@ export const config = {
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      festivals: [{"keyword": "love_day", date: "2022-09-08"},],
       customizedDateList: []
     },
     {
