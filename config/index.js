@@ -92,6 +92,11 @@ export const config = {
         {"keyword": "marry_day", date: "2022-02-02"},
         // 退伍日
         {"keyword": "ex_day", date: "2022-02-02"},
+        //生日
+        {"keyword": "birthday_left", date: "2022-02-02"},
+        //在一起的日子
+         {"keyword": "love_days", date: "2022-02-02"},
+        
       ]
     },
     
